@@ -1,0 +1,136 @@
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site favicons & manifest icons
+# 9. Site navigation
+
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# 2.5. This is required for github pages
+remote_theme: daviddarnes/alembic@main
+
+# 3. Gem settings
+paginate: 5 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: zhiqin1998 # jekyll-seo-tag > Owners twitter username
+author: ZhiQin # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: Zhi Qin Tan # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://www.linkedin.com/in/tan-zhi-qin-16314b126/
+    - https://github.com/zhiqin1998
+# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+# commonmark:
+  # options: ["SMART", "FOOTNOTES"]
+  # extensions: ["strikethrough", "autolink", "table"]
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
+
+# 5. Collections
+collections:
+  posts:
+    title: Blog # Needed for Siteleaf
+    output: true
+    description: "" # The post list page content
+    feature_text: |
+      Coming soon...
+    feature_image: "https://picsum.photos/2560/600?image=866"
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Zhi Qin Tan" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/home-logo.png" # Site logo, also used in jekyll-seo-tag
+description: "Deep Learning" # Site description and default description, also used in jekyll-seo-tag
+url: "https://zhiqin.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/zhiqin1998/zhiqin.github.io"
+email: "z.tan@surrey.ac.uk"
+disqus: "zhiqin-github-io" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+google_analytics: 'G-60E9XPCW5S'
+# google_analytics_anonymize_ip: ''
+# service_worker: false # Will turn off the service worker if set to false
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  160: '/assets/logos/home-logo.png'
+
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Resume
+  url: /resume/
+- title: Publications
+  url: /publications/
+- title: Blog
+  url: /blog/
+
+navigation_footer:
+- title: Zhi Qin Tan
+  url: https://zhiqin.github.io
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  LinkedIn: https://www.linkedin.com/in/tan-zhi-qin-16314b126/
+  GitHub: https://github.com/zhiqin1998
+  link: https://zhiqin.github.io
+  Twitter: https://twitter.com/zhiqin1998
+  RSS: /feed.xml
