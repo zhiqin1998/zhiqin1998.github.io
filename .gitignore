@@ -5,7 +5,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-alembic-jekyll-theme-*.gem
+alembic-jekyll-theme.gemspec
 Gemfile.lock
 **/Gemfile.lock
 
