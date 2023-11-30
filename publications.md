@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-An up to date list of publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=YEwTuToAAAAJ) profile.
+An up to date list of publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=YEwTuToAAAAJ){:target="_blank"} profile.
 
 
 # 2024
@@ -19,10 +19,10 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <i>C.C. Ng, C. Lin, <b>Z.Q. Tan</b>, X. Wang, J.L. Kew, C.S. Chan, C. Zach</i><br>
 
-    <a href="https://doi.org/10.1016/j.patcog.2023.110124">
+    <a href="https://doi.org/10.1016/j.patcog.2023.110124" target="_blank">
       doi
     </a><br>
-    <a href="https://github.com/chunchet-ng/ICText-AGCL">
+    <a href="https://github.com/chunchet-ng/ICText-AGCL" target="_blank">
       Github repo 💻
     </a><br>
 
@@ -46,10 +46,10 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <i>W.J. Nah, C.C. Ng, C. Lin, Y.K. Lee, J.L. Kew, <b>Z.Q. Tan</b>, C.S. Chan, C. Zach, S. Lai</i><br>
 
-    <a href="https://ieeexplore.ieee.org/document/10222779">
+    <a href="https://ieeexplore.ieee.org/document/10222779" target="_blank">
       ICIP Proceedings
     </a><br>
-    <a href="https://github.com/nwjun/FFDS-Loss">
+    <a href="https://github.com/nwjun/FFDS-Loss" target="_blank">
       Github repo 💻
     </a><br>
 
@@ -73,7 +73,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <i><b>Z.Q. Tan</b>, H.S. Wong, C.S. Chan</i><br>
 
-    <a href="https://link.springer.com/chapter/10.1007/978-981-19-7554-7_9/">
+    <a href="https://link.springer.com/chapter/10.1007/978-981-19-7554-7_9/" target="_blank">
       Springer
     </a><br>
 
@@ -91,13 +91,13 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
   <div style="flex:2.5;">
     <b style="font-size: 100%;">An Embarrassingly Simple Approach for Intellectual Property Rights Protection on Recurrent Neural Networks</b><br>
-
+    
     <i><b>Z.Q. Tan</b>, H.S. Wong, C.S. Chan</i><br>
 
-    <a href="https://aclanthology.org/2022.aacl-main.8/">
+    <a href="https://aclanthology.org/2022.aacl-main.8/" target="_blank">
       AACL-IJCNLP Proceedings
     </a><br>
-    <a href="https://github.com/zhiqin1998/RecurrentIPR">
+    <a href="https://github.com/zhiqin1998/RecurrentIPR" target="_blank">
       Github repo 💻
     </a><br>
 
