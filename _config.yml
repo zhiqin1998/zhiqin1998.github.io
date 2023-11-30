@@ -99,9 +99,9 @@ lang: en-GB # Set the site language
 title: "Zhi Qin Tan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/home-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Deep Learning" # Site description and default description, also used in jekyll-seo-tag
-url: "https://zhiqin.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://zhiqin1998.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/zhiqin1998/zhiqin.github.io"
+repo: "https://github.com/zhiqin1998/zhiqin1998.github.io"
 email: "z.tan@surrey.ac.uk"
 disqus: "zhiqin-github-io" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 google_analytics: 'G-60E9XPCW5S'
@@ -126,7 +126,7 @@ navigation_header:
 
 navigation_footer:
 - title: Zhi Qin Tan
-  url: https://zhiqin.github.io
+  url: https://zhiqin1998.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/tan-zhi-qin-16314b126/
