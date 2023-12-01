@@ -79,7 +79,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/imgs/profile_icon.jpg" # Default image for sharing
   -
     scope:
       path: ""
@@ -98,7 +98,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Zhi Qin Tan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/home-logo.png" # Site logo, also used in jekyll-seo-tag
-description: "Deep Learning" # Site description and default description, also used in jekyll-seo-tag
+description: "Zhi Qin Tan's personal webpage" # Site description and default description, also used in jekyll-seo-tag
 url: "https://zhiqin1998.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zhiqin1998/zhiqin1998.github.io"
