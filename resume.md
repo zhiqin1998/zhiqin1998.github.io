@@ -258,7 +258,7 @@ For more details, you can download the pdf version of my resume [{% include icon
 <ul>
   <li>
   <b>Reviewer</b><br>
-  <i>Neurocomp. 2023, TPAMI 2023, AACL-IJCNLP 2022</i>
+  <i>ACL 2024, Neurocomp. 2023, TPAMI 2023, AACL-IJCNLP 2022</i>
   </li>
 </ul>
 
@@ -266,6 +266,11 @@ For more details, you can download the pdf version of my resume [{% include icon
 ## Talks and Workshops 💁‍♂️
 
 <ul>
+  <li>
+    Object Detection with Crowdsourced Annotations
+    <span style="float:right; color:#7a7a7a;">2024</span> <br>
+    <i>Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs</i>
+  </li>
   <li>
     Python Workshop for Beginner
     <span style="float:right; color:#7a7a7a;">2018</span> <br>
