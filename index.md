@@ -32,6 +32,9 @@ Prior to joining University of Surrey, I was a senior data scientist at [Datium 
 <div style="display:flex;">
   <ol>
     <li>
+      [2024.07] First paper in PhD "Bayesian Detector Combination for Object Detection with Crowdsourced Annotations" has been accepted at <a href="https://eccv.ecva.net/Conferences/2024" target="_blank">ECCV 2024</a>. Please see the <a href="https://github.com/zhiqin1998/bdc/" target="_blank">project page</a> for more details.
+    </li>
+    <li>
       [2024.06] Passed my Ph.D confirmation viva.
     </li>
     <li>
