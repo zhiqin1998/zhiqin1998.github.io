@@ -10,7 +10,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/2024-ictext.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/2024-bdc.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:2.5;">
@@ -34,7 +34,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
-    <img src="{{ site.url }}/imgs/paper-icons/2024-bdc.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+    <img src="{{ site.url }}/imgs/paper-icons/2024-ictext.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:2.5;">
