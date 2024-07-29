@@ -7,11 +7,34 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
 
 # 2024
-
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/2024-ictext.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Bayesian Detector Combination for Object Detection with Crowdsourced Annotations</b><br>
+
+    <i><b>Z.Q. Tan</b>, O. Isupova, G. Carneiro, X. Zhu, Y. Li</i><br>
+
+    <a href="https://arxiv.org/abs/2407.07958" target="_blank">
+      arXiv
+    </a><br>
+    <a href="https://github.com/zhiqin1998/bdc" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#2ca25f">ECCV 2024</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2024-bdc.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
   <div style="flex:2.5;">
