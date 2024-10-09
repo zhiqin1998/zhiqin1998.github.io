@@ -24,13 +24,16 @@ layout: page
   </p>
 </div>
 <br style="line-height:10%;">
-I am a Ph.D student at [University of Surrey](https://www.surrey.ac.uk/){:target="_blank"} under academic supervision of Dr. [Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li){:target="_blank"}, Prof. [Wenwu Wang](https://www.surrey.ac.uk/people/wenwu-wang){:target="_blank"} and Dr. [Xiatian Zhu](https://www.surrey.ac.uk/people/xiatian-zhu){:target="_blank"}, in collaboration with the [National Physical Laboratory](https://www.npl.co.uk/){:target="_blank"} under industrial supervision of Dr. [Yuhui Luo](https://ieeexplore.ieee.org/author/37274222400){:target="_blank"} and Dr [Tony Mansfield](https://scholar.google.com/citations?user=0RF3pxoAAAAJ){:target="_blank"}.
+I am a Ph.D student at [King's College London](https://www.kcl.ac.uk/){:target="_blank"} under academic supervision of Dr. [Yunpeng Li](https://www.kcl.ac.uk/people/yunpeng-li){:target="_blank"} and Prof. [Owen Addison](https://www.kcl.ac.uk/people/owen-addison){:target="_blank"}.
 
-Prior to joining University of Surrey, I was a senior data scientist at [Datium Insights](https://datiuminsights.com.au/){:target="_blank"} and a part time research assistant at CISIP in [Universiti Malaya](https://um.edu.my/){:target="_blank"}.
+I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_blank"} and was previously supervised by Dr. [Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li){:target="_blank"}, Prof. [Wenwu Wang](https://www.surrey.ac.uk/people/wenwu-wang){:target="_blank"} and Dr. [Xiatian Zhu](https://www.surrey.ac.uk/people/xiatian-zhu){:target="_blank"}, in collaboration with the [National Physical Laboratory](https://www.npl.co.uk/){:target="_blank"} under industrial supervision of Dr. [Yuhui Luo](https://ieeexplore.ieee.org/author/37274222400){:target="_blank"} and Dr [Tony Mansfield](https://scholar.google.com/citations?user=0RF3pxoAAAAJ){:target="_blank"}. Prior to starting my Ph.D journey, I was a senior data scientist at [Datium Insights](https://datiuminsights.com.au/){:target="_blank"} and a part time research assistant at CISIP in [Universiti Malaya](https://um.edu.my/){:target="_blank"}.
 
 ### Highlights
 <div style="display:flex;">
   <ol>
+    <li>
+      [2024.10] Transferred my Ph.D to King's College London.
+    </li>
     <li>
       [2024.07] First paper in PhD "Bayesian Detector Combination for Object Detection with Crowdsourced Annotations" has been accepted at <a href="https://eccv.ecva.net/Conferences/2024" target="_blank">ECCV 2024</a>. Please see the <a href="https://github.com/zhiqin1998/bdc/" target="_blank">project page</a> for more details.
     </li>

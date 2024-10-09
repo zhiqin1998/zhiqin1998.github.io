@@ -3,11 +3,29 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/zhiqin1998/zhiqin1998.github.io/raw/main/zhiqin-resume.pdf) (updated Jul. 2024).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/zhiqin1998/zhiqin1998.github.io/raw/main/zhiqin-resume.pdf) (updated Oct. 2024).
 
 ## Education 🎓
 
 <!-- PhD -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%">
+    <img src="{{ site.url }}/imgs/resume-icons/kcl.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0px">
+      <b style="font-size: 130%;">King's College London</b>
+      <span style="float:right; color:#7a7a7a;">2024 - 2027</span>
+    </p>
+    Ph.D in Dental and Health Science Research<br>
+    <p style="color:#7a7a7a">
+      Supervised by Dr. Yunpeng Li and Prof. Owen Addison
+    </p>
+  </div>
+
+</div>
 <div style="display:flex;">
 
   <div style="flex:0.5; padding-right:5%">
@@ -17,7 +35,7 @@ For more details, you can download the pdf version of my resume [{% include icon
   <div style="flex:4;">
     <p style="margin:0px">
       <b style="font-size: 130%;">University of Surrey</b>
-      <span style="float:right; color:#7a7a7a;">2023 - 2027</span>
+      <span style="float:right; color:#7a7a7a;">2023 - 2024</span>
     </p>
     Ph.D Computer Science<br>
     <p style="color:#7a7a7a">
