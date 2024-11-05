@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/zhiqin1998/zhiqin1998.github.io/raw/main/zhiqin-resume.pdf) (updated Oct. 2024).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/zhiqin1998/zhiqin1998.github.io/raw/main/zhiqin-resume.pdf) (updated Nov. 2024).
 
 ## Education 🎓
 
@@ -253,7 +253,7 @@ For more details, you can download the pdf version of my resume [{% include icon
         <i>Deep Learning:</i> Pytorch, Tensorflow, Keras
       </li>
       <li>
-        <i>Visualization:</i> plotly
+        <i>Visualization:</i> plotly, seaborn
       </li>
     </ul>
   </li>

@@ -6,6 +6,32 @@ layout: page
 An up to date list of publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=YEwTuToAAAAJ){:target="_blank"} profile.
 
 
+# 2025
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2025-text_in_dark.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Text in the dark: Extremely low-light text image enhancement</b><br>
+
+    <i>C. Lin, C.C. Ng, <b>Z.Q. Tan</b>, W.J. Nah, X. Wang, J.L. Kew, P. Hsu, S.H. Lai, C.S. Chan, C. Zach</i><br>
+
+    <a href="https://doi.org/10.1016/j.image.2024.117222" target="_blank">
+      doi
+    </a><br>
+    <a href="https://github.com/chunchet-ng/Text-in-the-Dark" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#2ca25f">Signal Processing: Image Communication, vol. 130</b>
+  </div>
+</div>
+
+&nbsp;
+
+
 # 2024
 <div style="display:flex;">
 
