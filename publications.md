@@ -44,8 +44,8 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <i><b>Z.Q. Tan</b>, O. Isupova, G. Carneiro, X. Zhu, Y. Li</i><br>
 
-    <a href="https://arxiv.org/abs/2407.07958" target="_blank">
-      arXiv
+    <a href="https://doi.org/10.1007/978-3-031-73036-8_19" target="_blank">
+      doi
     </a><br>
     <a href="https://github.com/zhiqin1998/bdc" target="_blank">
       Github repo 💻
