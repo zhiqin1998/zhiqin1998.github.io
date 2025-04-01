@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here](https://github.com/zhiqin1998/zhiqin1998.github.io/raw/main/zhiqin-resume.pdf) (updated Nov. 2024).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Mar. 2025).
 
 ## Education 🎓
 
@@ -178,6 +178,12 @@ For more details, you can download the pdf version of my resume [{% include icon
 
 <ul>
   <li>
+    <b>Chinese Outbound Tourism Forecasting Competition</b>
+    <span style="float:right; color:#7a7a7a;">2023</span> <br>
+    <i>Ranked third runner-up out of 25 teams</i>
+  </li>
+
+  <li>
     <b>ACM-ICPC Competitive Programming Competition</b>
     <span style="float:right; color:#7a7a7a;">2018 - 2019</span> <br>
     <i>Ranked second place in both years in Malaysia region</i>
@@ -276,7 +282,7 @@ For more details, you can download the pdf version of my resume [{% include icon
 <ul>
   <li>
   <b>Reviewer</b><br>
-  <i>ACL 2024, Neurocomp. 2023, TPAMI 2023, AACL-IJCNLP 2022</i>
+  <i>ACL 2024-2025, Neurocomp. 2023, TPAMI 2023, AACL-IJCNLP 2022</i>
   </li>
 </ul>
 
