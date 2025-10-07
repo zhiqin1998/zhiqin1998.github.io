@@ -24,13 +24,16 @@ layout: page
   </p>
 </div>
 <br style="line-height:10%;">
-I am a Ph.D student at [King's College London](https://www.kcl.ac.uk/){:target="_blank"} under academic supervision of Dr. [Yunpeng Li](https://www.kcl.ac.uk/people/yunpeng-li){:target="_blank"} and Prof. [Owen Addison](https://www.kcl.ac.uk/people/owen-addison){:target="_blank"}.
+I am a third year Ph.D student at [King's College London](https://www.kcl.ac.uk/){:target="_blank"} under academic supervision of Dr. [Yunpeng Li](https://www.kcl.ac.uk/people/yunpeng-li){:target="_blank"} and Prof. [Owen Addison](https://www.kcl.ac.uk/people/owen-addison){:target="_blank"}. My research interests lie in the intersection between trustworthy and multimodal AI, as well as their application in healthcare, specifically the dentistry domain. 
 
 I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_blank"} and was previously supervised by Dr. [Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li){:target="_blank"}, Prof. [Wenwu Wang](https://www.surrey.ac.uk/people/wenwu-wang){:target="_blank"} and Dr. [Xiatian Zhu](https://www.surrey.ac.uk/people/xiatian-zhu){:target="_blank"}, in collaboration with the [National Physical Laboratory](https://www.npl.co.uk/){:target="_blank"} under industrial supervision of Dr. [Yuhui Luo](https://ieeexplore.ieee.org/author/37274222400){:target="_blank"} and Dr [Tony Mansfield](https://scholar.google.com/citations?user=0RF3pxoAAAAJ){:target="_blank"}. Prior to starting my Ph.D journey, I was a senior data scientist at [Datium Insights](https://datiuminsights.com.au/){:target="_blank"} and a part time research assistant at CISIP in [Universiti Malaya](https://um.edu.my/){:target="_blank"}.
 
 ### Highlights
 <div style="display:flex;">
   <ol>
+    <li>
+      [2025.09] I won first place in each of the three tasks on Cone Beam Computed Tomography (CBCT) scan segmentation in the <a href="https://odin-workshops.org/2025/challenges.html" target="_blank">MICCAI 2025 Oral and Dental Image aNalysis (ODIN) challenges</a>! Our work has been documented at <a href="https://arxiv.org/pdf/2509.12069" target="_blank">U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT</a> and <a href="https://arxiv.org/pdf/2509.20154" target="_blank">U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT</a>.
+    </li>
     <li>
       [2024.10] Transferred my Ph.D to King's College London.
     </li>
