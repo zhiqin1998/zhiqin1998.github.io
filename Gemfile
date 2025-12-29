@@ -1,7 +1,17 @@
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll", "~> 3.10.0"
+gem "jekyll-commonmark", "~> 1.4.0"
+gem "jekyll-default-layout", "~> 0.1.5"
+gem "jekyll-feed", "~> 0.17.0"
+gem "jekyll-include-cache", "~> 0.2.1"
+gem "jekyll-mentions", "~> 1.6.0"
+gem "jekyll-paginate", "~> 1.1.0"
+gem "jekyll-redirect-from", "~> 0.16.0"
+gem "jekyll-sitemap", "~> 1.4.0"
+gem "jekyll-theme-primer", "~> 0.6.0"
 gem "jekyll-remote-theme"
+gem "jemoji", "~> 0.13.0"
 gem "kramdown-parser-gfm"
 
 gem "webrick", "~> 1.7"
