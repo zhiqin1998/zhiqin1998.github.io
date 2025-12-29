@@ -5,8 +5,105 @@ layout: page
 
 An up to date list of publications can be found in my [Google Scholar](https://scholar.google.com/citations?user=YEwTuToAAAAJ){:target="_blank"} profile.
 
+# 2026
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2026-atr.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Post-pandemic tourism forecasting with ensemble RNN</b><br>
+
+    <i><b>Z.Q. Tan</b>, Y. Li</i><br>
+
+    <a href="https://doi.org/10.1016/j.annals.2025.104099" target="_blank">
+      doi
+    </a><br>
+    <a href="https://github.com/zhiqin1998/tourism-forecasting" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#f54927">Annals of Tourism Research, vol. 116</b>
+  </div>
+</div>
+
+&nbsp;
+
 
 # 2025
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/caries-research.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Caries detection in primary molars with bitewing radiographs through deep learning based-object detectors</b><br>
+
+    <i><b>Z.Q. Tan</b>, I.F. Pinho, R. Banks, X. Chen, L.R.A. Pontes, M.M. Braga, F.M. Mendes, Y. Li</i><br>
+
+    <a href="https://doi.org/10.1159/000550079" target="_blank">
+      doi
+    </a><br>
+    <a href="https://github.com/zhiqin1998/ped-caries-det" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#f54927">Caries Research</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2025-umamba2-ssl.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT</b><br>
+
+    <i><b>Z.Q. Tan</b>, X. Zhu, O. Addison, Y. Li</i><br>
+
+    <a href="https://arxiv.org/abs/2509.20154" target="_blank">
+      arXiv
+    </a><br>
+    <a href="https://github.com/zhiqin1998/UMamba2" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#2ca25f">MICCAI 2025, ODIN Workshop</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2025-umamba2.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">U-Mamba2: Scaling state space models for dental anatomy segmentation in CBCT</b><br>
+
+    <i><b>Z.Q. Tan</b>, X. Zhu, O. Addison, Y. Li</i><br>
+
+    <a href="https://arxiv.org/abs/2509.12069" target="_blank">
+      arXiv
+    </a><br>
+    <a href="https://github.com/zhiqin1998/UMamba2" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#2ca25f">MICCAI 2025, ODIN Workshop</b>
+  </div>
+</div>
+
+&nbsp;
+
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
@@ -25,7 +122,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
       Github repo 💻
     </a><br>
 
-    <b style="color:#2ca25f">Signal Processing: Image Communication, vol. 130</b>
+    <b style="color:#f54927">Signal Processing: Image Communication, vol. 130</b>
   </div>
 </div>
 
@@ -75,7 +172,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
       Github repo 💻
     </a><br>
 
-    <b style="color:#2ca25f">Pattern Recognition, vol. 147</b>
+    <b style="color:#f54927">Pattern Recognition, vol. 147</b>
   </div>
 </div>
 

@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Mar. 2025).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Dec. 2025).
 
 ## Education 🎓
 
@@ -178,6 +178,18 @@ For more details, you can download the pdf version of my resume [{% include icon
 
 <ul>
   <li>
+    <b>MICCAI ToothFairy3 Challenges</b>
+    <span style="float:right; color:#7a7a7a;">2025</span> <br>
+    <i>Ranked first place in both CBCT segmentation tasks</i>
+  </li>
+
+  <li>
+    <b>MICCAI STSR Challenges</b>
+    <span style="float:right; color:#7a7a7a;">2025</span> <br>
+    <i>Ranked first place in Task 1: semi-supervised CBCT segmentation</i>
+  </li>
+
+  <li>
     <b>Chinese Outbound Tourism Forecasting Competition</b>
     <span style="float:right; color:#7a7a7a;">2023</span> <br>
     <i>Ranked third runner-up out of 25 teams</i>
@@ -218,6 +230,12 @@ For more details, you can download the pdf version of my resume [{% include icon
 ## Teaching 👨‍🏫
 
 <ul>
+  <li>
+    Graduate Teaching Assistant
+    <span style="float:right; color:#7a7a7a;">King's College London, 2025</span> <br>
+    <i>Statistics Methods in Dental Research (PGT)</i>
+  </li>
+
   <li>
     Teaching Assistant
     <span style="float:right; color:#7a7a7a;">Universiti Malaya, 2020 - 2021</span> <br>
@@ -282,7 +300,7 @@ For more details, you can download the pdf version of my resume [{% include icon
 <ul>
   <li>
   <b>Reviewer</b><br>
-  <i>ACL 2024-2025, Neurocomp. 2023, TPAMI 2023, AACL-IJCNLP 2022</i>
+  <i>Caries Research, Nature Biomedical Engineering, Annals of Tourism Research, ACL 2024-2025, Neurocomp, TPAMI, AACL-IJCNLP 2022</i>
   </li>
 </ul>
 
@@ -290,6 +308,11 @@ For more details, you can download the pdf version of my resume [{% include icon
 ## Talks and Workshops 💁‍♂️
 
 <ul>
+  <li>
+    U-Mamba2: Scaling state space models for dental anatomy segmentation in CBCT
+    <span style="float:right; color:#7a7a7a;">2025</span> <br>
+    <i>Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs</i>
+  </li>
   <li>
     Object Detection with Crowdsourced Annotations
     <span style="float:right; color:#7a7a7a;">2024</span> <br>
