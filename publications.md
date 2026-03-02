@@ -9,6 +9,51 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2026-bookchapter.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">The Impact of Artificial Intelligence in Dentistry and Oral Medicine: Ethical Issues and Challenges from an Oral Clinical’s Perspective</b><br>
+
+    <i>M. Harte, Q.J. Feng, B. Carey, O. Addison, <b>Z.Q. Tan</b>, Y. Li, R. Albuquerque</i><br>
+
+    <a href="https://doi.org/10.1007/978-981-96-7448-0_22-1" target="_blank">
+      Springer
+    </a><br>
+
+    <b style="color:#666a6b">Handbook of Tissue Reconstruction and Regeneration</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2026-dentalx.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">DentalX: Context-Aware Dental Disease Detection with Radiographs</b><br>
+
+    <i><b>Z.Q. Tan</b>, X. Zhu, O. Addison, Y. Li</i><br>
+
+    <a href="https://arxiv.org/abs/2601.08797" target="_blank">
+      arXiv
+    </a><br>
+    <a href="https://github.com/zhiqin1998/DentalX" target="_blank">
+      Github repo 💻
+    </a><br>
+
+    <b style="color:#2ca25f">ISBI 2026</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/2026-atr.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
