@@ -29,10 +29,19 @@ I am a third year Ph.D student at [King's College London](https://www.kcl.ac.uk/
 I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_blank"} and was previously supervised by Dr. [Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li){:target="_blank"}, Prof. [Wenwu Wang](https://www.surrey.ac.uk/people/wenwu-wang){:target="_blank"} and Dr. [Xiatian Zhu](https://www.surrey.ac.uk/people/xiatian-zhu){:target="_blank"}, in collaboration with the [National Physical Laboratory](https://www.npl.co.uk/){:target="_blank"} under industrial supervision of Dr. [Yuhui Luo](https://ieeexplore.ieee.org/author/37274222400){:target="_blank"} and Dr [Tony Mansfield](https://scholar.google.com/citations?user=0RF3pxoAAAAJ){:target="_blank"}. Prior to starting my Ph.D journey, I was a senior data scientist at [Datium Insights](https://datiuminsights.com.au/){:target="_blank"} and a part time research assistant at CISIP in [Universiti Malaya](https://um.edu.my/){:target="_blank"}.
 
 ### Highlights
-<div style="display:flex;">
+<div>
   <ol>
     <li>
-      [2025.09] I won first place in each of the three tasks on Cone Beam Computed Tomography (CBCT) scan segmentation in the <a href="https://odin-workshops.org/2025/challenges.html" target="_blank">MICCAI 2025 Oral and Dental Image aNalysis (ODIN) challenges</a>! Our work has been documented at <a href="https://arxiv.org/pdf/2509.12069" target="_blank">U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT</a> and <a href="https://arxiv.org/pdf/2509.20154" target="_blank">U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT</a>.
+      [2026.01] Three papers accepted at <a href="https://doi.org/10.1159/000550079" target="_blank">Caries Research</a>, the <a href="https://doi.org/10.1016/j.annals.2025.104099" target="_blank">Annals of Tourism Research</a>, and the <a href="https://arxiv.org/abs/2601.08797" target="_blank">International Symposium of Biomedical Imaging</a>.
+    </li>
+    <li>
+      [2025.12] Presented in the <a href="https://networks.lab.mcgill.ca/docs/events/bellair_workshop_2026/" target="_blank">2026 Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs</a> at the Bellairs Research Institute in Holetown, Barbados. 
+    </li>
+    <li>
+      [2025.11] Presented <a href="https://arxiv.org/pdf/2407.07958" target="_blank">Bayesian Detector Combination for Object Detection with Crowdsourced Annotations</a> in the Second Global Symposium on Artificial Intelligence in Dentistry, organised by the Harvard School of Dental Medicine in Boston, USA. 
+    </li>
+    <li>
+      [2025.09] We <a href="https://www.kcl.ac.uk/news/kings-phd-student-triumphs-at-prestigious-international-medical-imaging-conference" target="_blank">won first place</a> in each of the three tasks on Cone Beam Computed Tomography (CBCT) scan segmentation in the <a href="https://odin-workshops.org/2025/challenges.html" target="_blank">MICCAI 2025 Oral and Dental Image aNalysis (ODIN) challenges</a>! Our work has been documented at <a href="https://arxiv.org/pdf/2509.12069" target="_blank">U-Mamba2: Scaling State Space Models for Dental Anatomy Segmentation in CBCT</a> and <a href="https://arxiv.org/pdf/2509.20154" target="_blank">U-Mamba2-SSL for Semi-Supervised Tooth and Pulp Segmentation in CBCT</a>.
     </li>
     <li>
       [2024.10] Transferred my Ph.D to King's College London.
