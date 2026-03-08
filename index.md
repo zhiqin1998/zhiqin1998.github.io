@@ -32,7 +32,7 @@ I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_b
 <div>
   <ol>
     <li>
-      [2026.01] Three papers accepted at <a href="https://doi.org/10.1159/000550079" target="_blank">Caries Research</a>, the <a href="https://doi.org/10.1016/j.annals.2025.104099" target="_blank">Annals of Tourism Research</a>, and the <a href="https://arxiv.org/abs/2601.08797" target="_blank">International Symposium of Biomedical Imaging</a>.
+      [2026.01] Three papers accepted at <a href="https://doi.org/10.1159/000550079" target="_blank">Caries Research</a>, the <a href="https://doi.org/10.1016/j.annals.2025.104099" target="_blank">Annals of Tourism Research</a>, and the <a href="https://arxiv.org/abs/2601.08797" target="_blank">International Symposium of Biomedical Imaging (Oral)</a>.
     </li>
     <li>
       [2025.12] Presented in the <a href="https://networks.lab.mcgill.ca/docs/events/bellair_workshop_2026/" target="_blank">2026 Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs</a> at the Bellairs Research Institute in Holetown, Barbados. 
