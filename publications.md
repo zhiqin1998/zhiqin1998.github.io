@@ -9,6 +9,27 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2026-dentrev.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">Deep Learning in Dentistry: A Literature Review from an AI Researcher’s Viewpoint</b><br>
+
+    <i><b>Z.Q. Tan</b>, M.G. Roscoe, O. Addison, Y. Li</i><br>
+
+    <a href="https://doi.org/10.1016/j.dentre.2026.100416" target="_blank">
+      doi
+    </a><br>
+
+    <b style="color:#f54927">Dentistry Review, vol. 6</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/2026-bookchapter.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
