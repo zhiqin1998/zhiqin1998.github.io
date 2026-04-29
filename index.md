@@ -32,7 +32,7 @@ I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_b
 <div>
   <ol>
     <li>
-      [2026.03] One review paper accepted at <a href="https://doi.org/10.1016/j.dentre.2026.100416" target="_blank">Dentistry Review</a>, and presented a poster at the <a href="https://www.iadr.org/2026iags" target="_blank">2026 IADR/AADOCR/CADR General Session & Exhibition</a>.
+      [2026.03] One review paper accepted at <a href="https://doi.org/10.1016/j.dentre.2026.100416" target="_blank">Dentistry Review</a>, and presented a poster on <a href="https://arxiv.org/abs/2601.08797" target="_blank">DentalX: Context-Aware Dental Disease Detection with Radiographs</a> at the <a href="https://www.iadr.org/2026iags" target="_blank">2026 IADR/AADOCR/CADR General Session & Exhibition</a>.
     </li>
     <li>
       [2026.01] Three papers accepted at <a href="https://doi.org/10.1159/000550079" target="_blank">Caries Research</a>, the <a href="https://doi.org/10.1016/j.annals.2025.104099" target="_blank">Annals of Tourism Research</a>, and the <a href="https://arxiv.org/abs/2601.08797" target="_blank">International Symposium of Biomedical Imaging (Oral)</a>.
