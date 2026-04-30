@@ -66,7 +66,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
       Github repo 💻
     </a><br>
 
-    <b style="color:#2ca25f">ISBI 2026</b>
+    <b style="color:#2ca25f">ISBI 2026 Oral 🌟</b>
   </div>
 </div>
 
