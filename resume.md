@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Dec. 2025).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Apr. 2026).
 
 ## Education 🎓
 
