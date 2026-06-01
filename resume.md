@@ -3,7 +3,7 @@ title: Resume
 layout: page
 ---
 
-For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Apr. 2026).
+For more details, you can download the pdf version of my resume [{% include icon.html id="pdf" title="pdf" %}here]({{ site.url }}/assets/zhiqin-resume.pdf) (updated Jun. 2026).
 
 ## Education 🎓
 
@@ -232,8 +232,8 @@ For more details, you can download the pdf version of my resume [{% include icon
 <ul>
   <li>
     Graduate Teaching Assistant
-    <span style="float:right; color:#7a7a7a;">King's College London, 2025</span> <br>
-    <i>Statistics Methods in Dental Research (PGT)</i>
+    <span style="float:right; color:#7a7a7a;">King's College London, 2025 - 2026</span> <br>
+    <i>Tutored "Statistics Methods in Dental Research (PGT)" class and offered 1-1 statistical peer support</i>
   </li>
 
   <li>
@@ -308,6 +308,11 @@ For more details, you can download the pdf version of my resume [{% include icon
 ## Talks and Workshops 💁‍♂️
 
 <ul>
+  <li>
+    U-Mamba2 and U-Mamba2-SSL​ for ODIN Challenges MICCAI 2025​
+    <span style="float:right; color:#7a7a7a;">2026</span><br>
+    <i>3-hour lecture at the AImageLab, UNIMORE</i>
+  </li>
   <li>
     U-Mamba2: Scaling state space models for dental anatomy segmentation in CBCT
     <span style="float:right; color:#7a7a7a;">2025</span> <br>

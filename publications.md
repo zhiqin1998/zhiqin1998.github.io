@@ -9,6 +9,33 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/imgs/paper-icons/2026-tf3.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 100%;">ToothFairy3: Scaling CBCT Maxillofacial Segmentation to 77 Classes with U-Mamba2</b><br>
+
+    <i>L. Lumetti, <b>Z.Q. Tan</b>, L. Borghi, N. van Nistelrooij, G. Rosati, O. Addison, Y. Li, S. Vinayahalingam, C. Grana, F. Bolelli</i><br>
+
+    <!-- <a href="" target="_blank">
+      doi
+    </a><br> -->
+    <a href="https://github.com/zhiqin1998/U-Mamba2" target="_blank">
+      Github repo 💻
+    </a><br>
+    <a href="https://ditto.ing.unimore.it/toothfairy3" target="_blank">
+      Dataset link 🛢️
+    </a><br>
+
+    <b style="color:#2ca25f">MICCAI 2026 Early Accepted Paper</b>
+  </div>
+</div>
+
+&nbsp;
+
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/imgs/paper-icons/2026-dentrev.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
   </div>
 
@@ -39,7 +66,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
     <i>M. Harte, Q.J. Feng, B. Carey, O. Addison, <b>Z.Q. Tan</b>, Y. Li, R. Albuquerque</i><br>
 
     <a href="https://doi.org/10.1007/978-981-96-7448-0_22-1" target="_blank">
-      Springer
+      doi
     </a><br>
 
     <b style="color:#666a6b">Handbook of Tissue Reconstruction and Regeneration</b>
