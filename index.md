@@ -33,7 +33,7 @@ I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_b
   <ol>
     <li>
       [2026.05] One early accepted paper titled "ToothFairy3: Scaling CBCT Maxillofacial Segmentation to 77 Classes with U-Mamba2" at <a href="https://conferences.miccai.org/2026" target="_blank">MICCAI 2026</a>. Thank you to our collaborator at UNIMORE and Radboud University Medical Center. <br>
-      I gave a 3-hour talk on "U-Mamba2 and U-Mamba2-SSL​ for ODIN Challenges MICCAI 2025​" at AImageLab, UNIMORE. Thank you to Prof. Federico Bolelli and Prof. Costantino Grana for the invitation.
+      I gave a 3-hour talk on "U-Mamba2 and U-Mamba2-SSL​ for ODIN Challenges MICCAI 2025​" at the AImageLab, UNIMORE. Thank you to Prof. Federico Bolelli and Prof. Costantino Grana for the invitation.
     </li>
     <li>
       [2026.03] One review paper accepted at <a href="https://doi.org/10.1016/j.dentre.2026.100416" target="_blank">Dentistry Review</a>, and presented a poster on <a href="https://arxiv.org/abs/2601.08797" target="_blank">DentalX: Context-Aware Dental Disease Detection with Radiographs</a> at the <a href="https://www.iadr.org/2026iags" target="_blank">2026 IADR/AADOCR/CADR General Session & Exhibition</a>.
