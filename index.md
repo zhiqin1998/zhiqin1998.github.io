@@ -14,7 +14,7 @@ layout: page
       {% include icon.html id="github" title="github" %}
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/tan-zhi-qin-16314b126/" target="_blank">
+    <a href="https://www.linkedin.com/in/zhi-qin-tan" target="_blank">
       {% include icon.html id="linkedin" title="linkedin" %}
     </a>
     &nbsp;
