@@ -27,7 +27,7 @@ An up to date list of publications can be found in my [Google Scholar](https://s
       Dataset link 🛢️
     </a><br>
 
-    <b style="color:#2ca25f">MICCAI 2026 Early Accepted Paper</b>
+    <b style="color:#2ca25f">MICCAI 2026 Early Accepted Paper 🌟</b>
   </div>
 </div>
 
@@ -88,6 +88,9 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <a href="https://arxiv.org/abs/2601.08797" target="_blank">
       arXiv
+    </a><br>
+    <a href="https://doi.org/10.1109/ISBI61048.2026.11515626" target="_blank">
+      doi
     </a><br>
     <a href="https://github.com/zhiqin1998/DentalX" target="_blank">
       Github repo 💻
@@ -163,6 +166,9 @@ An up to date list of publications can be found in my [Google Scholar](https://s
     <a href="https://arxiv.org/abs/2509.20154" target="_blank">
       arXiv
     </a><br>
+    <a href="https://doi.org/10.1007/978-3-032-20711-1_18" target="_blank">
+      doi
+    </a><br>
     <a href="https://github.com/zhiqin1998/UMamba2" target="_blank">
       Github repo 💻
     </a><br>
@@ -186,6 +192,9 @@ An up to date list of publications can be found in my [Google Scholar](https://s
 
     <a href="https://arxiv.org/abs/2509.12069" target="_blank">
       arXiv
+    </a><br>
+    <a href="https://doi.org/10.1007/978-3-032-20711-1_12" target="_blank">
+      doi
     </a><br>
     <a href="https://github.com/zhiqin1998/UMamba2" target="_blank">
       Github repo 💻
