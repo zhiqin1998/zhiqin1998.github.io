@@ -289,7 +289,7 @@ For more details, you can download the pdf version of my resume [{% include icon
         <i>Fluent:</i> English, Mandarin, Malay
       </li>
       <li>
-        <i>Learning:</i> Spanish
+        <i>Learning:</i> Spanish, Japanese
       </li>
     </ul>
   </li>
@@ -300,7 +300,7 @@ For more details, you can download the pdf version of my resume [{% include icon
 <ul>
   <li>
   <b>Reviewer</b><br>
-  <i>Caries Research, Nature Biomedical Engineering, Annals of Tourism Research, ACL 2024-2025, Neurocomp, TPAMI, AACL-IJCNLP 2022</i>
+  <i>MDPI Dentistry, Caries Research, Nature Biomedical Engineering, Annals of Tourism Research, ACL 2024-2025, Neurocomp, TPAMI, AACL-IJCNLP 2022</i>
   </li>
 </ul>
 
@@ -308,6 +308,11 @@ For more details, you can download the pdf version of my resume [{% include icon
 ## Talks and Workshops 💁‍♂️
 
 <ul>
+  <li>
+    Post-pandemic Tourism Forecasting with Ensemble RNN
+    <span style="float:right; color:#7a7a7a;">2026</span><br>
+    <i>Webinar: Who Forecasted Best? Insights from the ATR Forecasting Competition on Tourism Recovery</i>
+  </li>
   <li>
     U-Mamba2 and U-Mamba2-SSL​ for ODIN Challenges MICCAI 2025​
     <span style="float:right; color:#7a7a7a;">2026</span><br>
