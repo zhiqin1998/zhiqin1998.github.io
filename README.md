@@ -1,4 +1,4 @@
-# [Personal website](https://zhiqin1998.github.io)
+# [Personal website](https://zqtan.dev)
 
 Based on the [Alembic](https://alembic.darn.es/) theme, built with [Jekyll](https://jekyllrb.com/).
 

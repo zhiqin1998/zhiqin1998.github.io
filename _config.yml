@@ -99,7 +99,7 @@ lang: en-GB # Set the site language
 title: "Zhi Qin Tan" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/home-logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Zhi Qin Tan's personal webpage" # Site description and default description, also used in jekyll-seo-tag
-url: "https://zhiqin1998.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://zqtan.dev" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/zhiqin1998/zhiqin1998.github.io"
 email: "z.tan@surrey.ac.uk"
@@ -126,11 +126,11 @@ navigation_header:
 
 navigation_footer:
 - title: Zhi Qin Tan
-  url: https://zhiqin1998.github.io
+  url: https://zqtan.dev
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/tan-zhi-qin-16314b126/
   GitHub: https://github.com/zhiqin1998
-  link: https://zhiqin1998.github.io
+  link: https://zqtan.dev
   Twitter: https://twitter.com/zhiqin1998
   RSS: /feed.xml
