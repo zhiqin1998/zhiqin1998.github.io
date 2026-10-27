@@ -29,7 +29,7 @@ I am a third year Ph.D student at [King's College London](https://www.kcl.ac.uk/
 I transferred from [University of Surrey](https://www.surrey.ac.uk/){:target="_blank"} and was previously supervised by Dr. [Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li){:target="_blank"}, Prof. [Wenwu Wang](https://www.surrey.ac.uk/people/wenwu-wang){:target="_blank"} and Dr. [Xiatian Zhu](https://www.surrey.ac.uk/people/xiatian-zhu){:target="_blank"}, in collaboration with the [National Physical Laboratory](https://www.npl.co.uk/){:target="_blank"} under industrial supervision of Dr. [Yuhui Luo](https://ieeexplore.ieee.org/author/37274222400){:target="_blank"} and Dr [Tony Mansfield](https://scholar.google.com/citations?user=0RF3pxoAAAAJ){:target="_blank"}. Prior to starting my Ph.D journey, I was a senior data scientist at [Datium Insights](https://datiuminsights.com.au/){:target="_blank"} and a part time research assistant at CISIP in [Universiti Malaya](https://um.edu.my/){:target="_blank"}.
 
 ### Highlights
-<div>
+<div class="highlights">
   <ol>
     <li>
       [2026.05] One early accepted paper titled "ToothFairy3: Scaling CBCT Maxillofacial Segmentation to 77 Classes with U-Mamba2" at <a href="https://conferences.miccai.org/2026" target="_blank">MICCAI 2026</a>. Thank you to our collaborator at UNIMORE and Radboud University Medical Center. <br>
